@@ -2,5 +2,6 @@ org.eeml.math
 org.eeml.math.equation
 org.eeml.math.exception
 org.eeml.math.expr
+org.eeml.math.expr.shape
 org.eeml.math.statistics
 org.eeml.math.statistics.test
